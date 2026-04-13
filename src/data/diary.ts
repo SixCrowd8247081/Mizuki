@@ -20,6 +20,12 @@ const diaryData: DiaryItem[] = [
 		date: "2025-01-15T10:30:00Z",
 		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
 	},
+	{
+		id: 2,
+		content:
+			"讨厌体测[哭]",
+		date: "2026-04-13T18:30:00Z",
+	}
 ];
 
 // 获取日记列表（按时间倒序）
