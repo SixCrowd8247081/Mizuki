@@ -24,8 +24,8 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
-	subtitle: "终不似，少年游",
+	title: "Baiのblog",
+	subtitle: "Baiのblog",
 	siteURL: "https://demo1.jiangyuebai.top/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-04-13", // 站点开始运行日期，用于站点统计组件计算运行天数
 
@@ -369,7 +369,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "まつざか ゆき",
+	name: "江小白",
 	bio: "世界は大きい、君は行かなければならない",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
