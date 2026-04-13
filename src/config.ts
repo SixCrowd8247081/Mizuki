@@ -447,7 +447,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	system: "twikoo", // 评论系统选择: "twikoo" | "giscus"
 	twikoo: {
 		envId: "https://twikoo.vercel.app",
@@ -674,7 +674,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 	width: 280, // 默认宽度
 	height: 250, // 默认高度
 	mode: "draggable", // 默认为可拖拽模式
-	hiddenOnMobile: true, // 默认在移动设备上隐藏
+	hiddenOnMobile: false, // 默认在移动设备上隐藏
 	dialog: {
 		welcome: "Welcome to Mizuki Website!", // 欢迎词
 		touch: [
