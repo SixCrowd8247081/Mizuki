@@ -19,7 +19,7 @@ export interface Skill {
 
 export const skillsData: Skill[] = [
 	// Frontend Skills
-	{
+	/*{
 		id: "javascript",
 		name: "JavaScript",
 		description:
@@ -681,5 +681,5 @@ export const skillsData: Skill[] = [
 		experience: { years: 0, months: 8 },
 		projects: ["e2e-testing"],
 		color: "#17202C",
-	},
+	},*/
 ];
