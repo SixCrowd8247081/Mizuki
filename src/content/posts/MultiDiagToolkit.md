@@ -1,9 +1,9 @@
 ---
 title: MultiDiagToolkit #标题
 published: 2026-04-14 #发布时间
-description: my new blog. #描述
+description: 一个万能的Windows系统诊断工具箱. #描述
 # image: ./cover.jpg #封面图
-tags: [Windows工具] #标签
+tags: [Windows工具,github,star] #标签
 category: 工具 #分类
 draft: false #草稿（是否隐藏）
 pinned: false #置顶
@@ -12,13 +12,12 @@ lang: zh_CN      # Only set when article language differs from site language in 
 ---
 
 # [github] MultiDiagToolkit (MDT) v5.2
-## 多合一系统诊断工具箱
+#### 多合一系统诊断工具箱
 
+下载地址：[发布页](https://github.com/Jackstar1212/MutiDiagToolkit/releases)
+博客下载地址：[多合一诊断工具箱](https://www.nekomoe.fun/resource/69/)
 
 ::github{repo="Jackstar1212/MultiDiagToolkit"}
-
-
-### 转发自 Jackstar1212/MultiDiagToolkit/blob/main/README.md
 
 一个针对 Windows 系统的诊断修复工具箱
 
@@ -252,7 +251,4 @@ lang: zh_CN      # Only set when article language differs from site language in 
     15. 打开资源监视器
 
 
-## 下载地址：[发布页](https://github.com/Jackstar1212/MutiDiagToolkit/releases)
-
-
-## 博客下载地址：[多合一诊断工具箱](https://www.nekomoe.fun/resource/69/)
+##### 转发自 Jackstar1212/MultiDiagToolkit/blob/main/README.md
