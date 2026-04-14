@@ -18,11 +18,8 @@ lang: zh_CN      # Only set when article language differs from site language in 
 博客下载地址：[多合一诊断工具箱](https://www.nekomoe.fun/resource/69/)
 
 ::github{repo="Jackstar1212/MultiDiagToolkit"}
-
-一个针对 Windows 系统的诊断修复工具箱
-
+### 一个针对 Windows 系统的诊断修复工具箱
 开发调试需求：[Mtee](https://ritchielawrence.github.io/mtee/)、PsExec、ntsd、cdb、Windows 环境
-
 直接下载脚本运行部分功能会失效，推荐下载 Release 页面或博客页面打包版本
 
 ####     **声明：脚本修复功能不一定适用于您的问题，作者对使用脚本后果概不负责，请自行斟酌使用**
@@ -30,9 +27,11 @@ lang: zh_CN      # Only set when article language differs from site language in 
 ####    **声明：如果不同意，请点击右上角关闭按钮关闭脚本并删除脚本文件**
 ####     **首次使用建议阅读关于脚本的疑难解答**
 
+
 ### 注意：v4.9 以及后续版本重要说明
 请查看[关于多合一系统诊断修复工具箱（MDT）的一些说明](https://www.nekomoe.fun/articles/740/)
 ## 	常见问题及解答
+
 
 #### 常见问题：为什么会报毒？
 
