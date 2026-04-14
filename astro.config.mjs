@@ -30,6 +30,7 @@ import { remarkContent } from "./src/plugins/remark-content.mjs";
 import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
 import { remarkFixGithubAdmonitions } from "./src/plugins/remark-fix-github-admonitions.js";
 import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
+import { umami } from "oddmisc";
 
 // https://astro.build/config
 export default defineConfig({
@@ -42,7 +43,7 @@ export default defineConfig({
 	integrations: [
 		oddmisc({
 			umami: {
-				shareUrl: false,
+				shareUrl: "https://cloud.umami.is/analytics/us/share/wPEwR08YtbT9zgw7",
 			},
 		}),
 		swup({
