@@ -3,8 +3,8 @@ title: github + cloudflare pages搭建备份（二） #标题
 published: 2026-04-15T16:00:00 #发布时间
 description: 利用模板更加方便的搭建你的静态博客 #描述
 # image: ./cover.jpg #封面图
-tags: [tag] #标签
-category: 预设 #分类
+tags: [github] #标签
+category: 教程 #分类
 draft: false #草稿（是否隐藏）
 pinned: false #置顶
 comment: true #评论
