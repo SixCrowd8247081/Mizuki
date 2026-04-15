@@ -1,6 +1,6 @@
 ---
 title: Hexo + github pages 简易搭建备份（一） #标题
-published: 2026-04-13 #发布时间
+published: 2026-04-15 14:00:00 #发布时间
 description: 一个面向小小白的github pages搭建教程. #描述
 # image: ./cover.jpg #封面图
 tags: [Hexo,github] #标签

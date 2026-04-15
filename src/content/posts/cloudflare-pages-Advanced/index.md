@@ -1,6 +1,6 @@
 ---
 title: github + cloudflare pages搭建备份（二） #标题
-published: 2026-04-15 #发布时间
+published: 2026-04-15 16:00:00 #发布时间
 description: 利用模板更加方便的搭建你的静态博客 #描述
 # image: ./cover.jpg #封面图
 tags: [tag] #标签
@@ -80,6 +80,8 @@ git clone 你的项目链接
 git status
 #把所有被修改的文件添加到上传队列
 git add .
+#上传更新日志
+git commit -m "更新日志"
 #上传文件到github
 git push
 ```
